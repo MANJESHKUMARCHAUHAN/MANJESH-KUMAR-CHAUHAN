@@ -44,7 +44,7 @@
 
 ## 🚀 Featured Projects
 
-### 🎯 SanchayVision — Multi-Camera Image & Video Processing System
+### 🎯 ComputerVision — Multi-Camera Image & Video Processing System
 > `Python` `FastAPI` `InsightFace` `FAISS` `OpenCV` `PostgreSQL` `WebSockets`
 
 A production-grade computer vision system for real-time image and video analytics across multiple simultaneous camera streams.
